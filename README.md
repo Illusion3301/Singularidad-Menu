@@ -1,5 +1,5 @@
 # Singularidad Menu
-Un menu simple (por el momento) hecho en Python para aprender lo necesario para contribuir en la singularidad. Dentro de él actualmente (1.0.0) se encuentran las siguientes funciones:
+Un menu simple (por el momento) hecho en Python para aprender lo necesario para contribuir en la singularidad creado por Kassia#5197. Dentro de él actualmente (1.0.0) se encuentran las siguientes funciones:
 
 - Aprender qué es una IA 🤖
 
