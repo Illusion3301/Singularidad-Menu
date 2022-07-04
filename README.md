@@ -15,6 +15,6 @@ Un menu simple (por el momento) hecho en Python para aprender lo necesario para 
 
 # Objetivos cara al futuro
 
-- Conseguir que prepare todo lo necesario para que empiezes a programar en Python automáticamente ⚙
+- Conseguir que prepare todo lo necesario para que empiezes a programar en Python automáticamente ⚙ | Descargar e instalar un IDE para Python, actualizar todo lo necesario para que Python funcione bien (pip, librerias esenciales...)
 
 - Más secciones para aprender diferentes cosas relacionadas (se añadirá en muy poco) 📚
